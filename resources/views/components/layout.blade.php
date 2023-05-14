@@ -16,13 +16,13 @@
         theme: {
           extend: {
             colors: {
-              laravel: '#ef3b2d',
+              laravel: '#0096ff',
             },
           },
         },
       }
   </script>
-  <title>LaraGigs | Find Laravel Jobs & Projects</title>
+  <title>Trapezium | Find Laravel Jobs & Projects</title>
 </head>
 
 <body class="mb-48">
